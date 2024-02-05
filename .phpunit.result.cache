@@ -1,0 +1,1 @@
+{"version":1,"defects":{"HotelRepositoryTest::testFindHotelById":8,"HotelRepositoryTest::testFindAllHotels":8,"HotelRepositoryTest::testSearchHotels":5},"times":{"HotelRepositoryTest::testFindHotelById":0.008,"HotelRepositoryTest::testFindAllHotels":0.001,"HotelRepositoryTest::testSearchHotels":0.01}}
