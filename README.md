@@ -40,7 +40,7 @@ git clone https://github.com/RuFFuS4/PruebaTecnica_Destinia.git
 composer install
 ```
 
-3. Configurar la base de datos en `.env` y ejecutar migraciones:
+3. Configurar la base de datos en `.env`:
 
 ```yml
 DB_HOST=localhost
