@@ -58,9 +58,9 @@ SELECT * FROM Hoteles;
 SELECT Apartamentos.*, Ubicaciones.ciudad, Ubicaciones.provincia 
 FROM Apartamentos 
 INNER JOIN Ubicaciones ON Apartamentos.ubicacion_id = Ubicaciones.id 
-WHERE nombre LIKE '%Sun%' ORDER BY nombre;
+WHERE nombre LIKE '%lue%' ORDER BY nombre;
 
 SELECT Hoteles.*, Ubicaciones.ciudad, Ubicaciones.provincia 
 FROM Hoteles 
 INNER JOIN Ubicaciones ON Hoteles.ubicacion_id = Ubicaciones.id 
-WHERE nombre LIKE '%sun%' ORDER BY nombre
+WHERE nombre LIKE '%lue%' ORDER BY nombre

@@ -49,6 +49,8 @@ DB_USER=username
 DB_PASS=password
 ```
 
+4. Usar la base de datos alojada en la ruta `/sql/destinia.sql`
+
 
 ## Uso
 
